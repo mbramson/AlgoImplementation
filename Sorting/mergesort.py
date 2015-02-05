@@ -24,4 +24,3 @@ def mergesort(li):
         else:
             returnlist.append(right.pop(0))
     return returnlist
-
